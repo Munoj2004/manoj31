@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Styled Page</title>
+  <style>
+    body {
+      background-color: #f0f8ff; /* Light blue background */
+      font-family: Arial, sans-serif;
+      color: #333333;
+      margin: 20px;
+    }
+    h1 {
+      color: #007acc; /* Blue heading */
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, world!</h1>
+  <p>This is a simple HTML page with CSS styling.</p>
+</body>
+</html>
